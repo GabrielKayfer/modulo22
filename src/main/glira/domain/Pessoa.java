@@ -1,4 +1,4 @@
-package br.com.glira.domain;
+package main.glira.domain;
 
 import java.util.Objects;
 

@@ -1,7 +1,7 @@
-package br.com.glira.io;
+package main.glira.io;
 
-import br.com.glira.domain.Pessoa;
-import br.com.glira.domain.Sexo;
+import main.glira.domain.Pessoa;
+import main.glira.domain.Sexo;
 
 import java.util.ArrayList;
 import java.util.List;

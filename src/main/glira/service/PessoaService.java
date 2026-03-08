@@ -1,7 +1,7 @@
-package br.com.glira.service;
+package main.glira.service;
 
-import br.com.glira.domain.Pessoa;
-import br.com.glira.domain.Sexo;
+import main.glira.domain.Pessoa;
+import main.glira.domain.Sexo;
 
 import java.util.List;
 import java.util.stream.Collectors;
